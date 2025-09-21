@@ -1,0 +1,15 @@
+{
+  "name": "webzen-week3",
+  "version": "1.0.0",
+  "description": "A TypeScript/JavaScript project for week 3 assignment.",
+  "main": "script.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
